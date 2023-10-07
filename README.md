@@ -8,4 +8,5 @@
 
 ---
 
-[포스터.pdf](https://github.com/overnew/Graph-Augmentation-Technique-for-Graph-Convolution-Network-Using-Feature-Nodes/files/12836934/default.pdf)
+
+![포스터-1](https://github.com/overnew/Graph-Augmentation-Technique-for-Graph-Convolution-Network-Using-Feature-Nodes/assets/43613584/3187874b-8e57-4374-878a-eef3aa450fd8)
